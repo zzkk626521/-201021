@@ -7,5 +7,7 @@ public class dugu9jian {
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
+        System.out.println("独孤九剑");
     }
 }
